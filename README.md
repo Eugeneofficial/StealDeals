@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # StealDeals
 
 Telegram бот для отслеживания скидок и бесплатных игр в Steam, Epic Games и GOG.
@@ -56,4 +56,3 @@ python bot.py
 MIT License 
 =======
 # StealDeals
->>>>>>> aa41db3e3925c6a9e8df58502b3e2b83978eb6cc
